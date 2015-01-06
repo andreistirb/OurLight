@@ -1,0 +1,5 @@
+C:\Users\Andrei\Desktop\Facultate - An III\Semestrul I\Dezvoltare aplicatii web\Laborator\Proiect - OurLight\Proiect - OurLight\bin\Proiect - OurLight.dll
+C:\Users\Andrei\Desktop\Facultate - An III\Semestrul I\Dezvoltare aplicatii web\Laborator\Proiect - OurLight\Proiect - OurLight\bin\Proiect - OurLight.pdb
+C:\Users\Andrei\Desktop\Facultate - An III\Semestrul I\Dezvoltare aplicatii web\Laborator\Proiect - OurLight\Proiect - OurLight\obj\Debug\Proiect - OurLight.dll
+C:\Users\Andrei\Desktop\Facultate - An III\Semestrul I\Dezvoltare aplicatii web\Laborator\Proiect - OurLight\Proiect - OurLight\obj\Debug\Proiect - OurLight.pdb
+C:\Users\Andrei\Desktop\Facultate - An III\Semestrul I\Dezvoltare aplicatii web\Laborator\Proiect - OurLight\Proiect - OurLight\obj\Debug\Proiect - OurLight.csprojResolveAssemblyReference.cache
